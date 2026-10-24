@@ -1,0 +1,5 @@
+,in_degree,in_degree,in_degree,in_degree,out_degree,out_degree,out_degree,out_degree,total_degree,total_degree,total_degree,total_degree
+,mean,median,std,max,mean,median,std,max,mean,median,std,max
+class_name,,,,,,,,,,,,
+Illicit,1.26996699669967,1.0,7.215217536944027,177,0.7416941694169417,1.0,0.5716199173074399,3,2.0116611661166117,1.0,7.17752111872993,177
+Licit,1.9093981294176443,1.0,7.122537885125558,284,1.1858207001594516,1.0,3.2467689610002104,472,3.095218829577096,2.0,7.782941808494606,473

@@ -1,0 +1,9 @@
+Metric,Value
+Total Transactions,203769
+Total Directed Edges,234355
+Time Steps,49
+Anonymized Features,165
+Licit Transactions,42019
+Illicit Transactions,4545
+Unknown Transactions,157205
+Known Labeled Transactions,46564
