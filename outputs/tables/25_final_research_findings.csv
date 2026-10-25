@@ -1,0 +1,9 @@
+Research_Finding,Value
+Baseline Test AP,0.5478867847357887
+Graph-only Test AP,0.03694114434887517
+Combined Test AP,0.5469828739625856
+Combined minus Baseline AP,-0.0009039107732030649
+Combined minus Baseline F1,0.0
+Baseline Illicit Recall,0.4681372549019608
+Baseline False Negatives,217.0
+Graph-only False Positives,3789.0
